@@ -1,0 +1,19 @@
+name: Aishwarya
+age: 22
+address: Chennai
+active: true
+key:
+    key1: value1
+    key2: value2
+array: 
+    - item1
+    - item2
+    - item3
+jsonArray: [item1,item2]
+objectsArray: 
+    - key: value
+      subKey: value
+    - key2: value2
+longText: >
+    asdkjkerfn kasjdfeirgtvd
+    sdjfrnvckd
